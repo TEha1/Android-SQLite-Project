@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="profile_margin">5dp</dimen>
+    <dimen name="profile_margin_01">20dp</dimen>
+    <dimen name="welcome_margin">26dp</dimen>
+    <dimen name="add_product_margin">15dp</dimen>
+    <dimen name="login_margin">50dp</dimen>
+</resources>

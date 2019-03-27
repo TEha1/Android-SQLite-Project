@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abdu.teha.mycompanytesting03">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Company.CompanyLogin" />
+        <activity android:name=".Company.CompanyProfile" />
+        <activity android:name=".Company.CompanyRegisting" />
+        <activity android:name=".Company.AddProduct" />
+        <activity android:name=".User.RecentProduccts" />
+        <activity android:name=".User.ProductInfo" />
+        <activity android:name=".User.CompanyInfo" />
+        <activity android:name=".Company.EditProfile" />
+        <activity android:name=".Company.DeleteProduct" />
+        <activity android:name=".AdminControl"></activity>
+    </application>
+
+</manifest>

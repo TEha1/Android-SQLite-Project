@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Online Products</string>
+    <string name="welcome_text01">Welcome!</string>
+    <string name="welcome_text02">ShareProduct4Everyone.com</string>
+    <string name="welcome_text03">SignIn</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="next"> > </string>
+    <string name="register">Register!</string>
+    <string name="companyName">COMPANY NAME</string>
+    <string name="companyEmail">Company Email</string>
+    <string name="companyPassword">COMPANY PASSWORD</string>
+    <string name="companyAddress">COMPANY ADDRESS</string>
+    <string name="companyPhone">COMPANY PHONE</string>
+    <string name="companyWebsite">COMPANY WEBSITE</string>
+    <string name="companyProductType">PRODUCT TYPE</string>
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="phone">phone</string>
+    <string name="website">website</string>
+    <string name="pickOne">pick one:</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_logo">Change Logo</string>
+    <string name="myProduct">My Product</string>
+    <string name="addNewProduct">Add New Product</string>
+    <string name="deleteProduct">Delete Product</string>
+    <string name="title_search">search</string>
+    <string name="browseProducts">Browse Products</string>
+    <string name="aboutUs">About Us</string>
+    <string name="logout">Log out</string>
+    <string name="addProduct">Add Product</string>
+    <string name="productName">Product Name</string>
+    <string name="description">description</string>
+    <string name="details">write in details</string>
+    <string name="productArea">Product Area</string>
+    <string name="price">price</string>
+    <string name="monayType">EGP</string>
+    <string name="name2">name: </string>
+    <string name="company">company: </string>
+    <string name="log_in">Log in</string>
+    <string name="productPrice">Product Price</string>
+    <string name="productDesc">Product Description</string>
+    <string name="price_2">price:</string>
+    <string name="description_2">desc:</string>
+    <string name="type">type:</string>
+    <string name="area">area:</string>
+    <string name="c_name">company:</string>
+    <string name="email2">email: </string>
+    <string name="address2">address:</string>
+    <string name="phone2">phone:</string>
+    <string name="website2">website:</string>
+    <string name="products2">products:</string>
+    <string name="selectAreas">select areas</string>
+    <string name="showProducts">show products</string>
+    <string name="as_user">User</string>
+    <string name="as_admin">Admin</string>
+    <string name="as_company">Company</string>
+    <string name="delete">Delete</string>
+    <string name="img">logo</string>
+    <string name="show_areas">Show Areas</string>
+    <string name="add_type">Add Type</string>
+    <string name="add_area">Add Area</string>
+    <string name="add">Add</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
