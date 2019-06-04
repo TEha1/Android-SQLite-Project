@@ -8,4 +8,4 @@ It's an android app that has three end-users (COmpany, Customer, Admin)
 
 Technologies ( Android Studio, Java programming language, SQLite database)
 
-https://appetize.io/app/2378h1bjan95pufcf9f4vvztn8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
+Link: https://appetize.io/app/2378h1bjan95pufcf9f4vvztn8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
